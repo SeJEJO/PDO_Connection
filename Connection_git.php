@@ -166,5 +166,4 @@
   		echo "<br />\n<span style='color:red;'>$mensaje</span>";
   		return null;
 	}
-\ conexion_git.php
 ?>
